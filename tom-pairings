@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament type="2" stage="1" version="1.80" gametype="VIDEO_GAME" mode="VGCPREMIER">
+	<data>
+		<name>Summer VG League Cup</name>
+		<id>25-09-008720</id>
+		<city>Kent</city>
+		<state>WA</state>
+		<country>United States</country>
+		<roundtime>0</roundtime>
+		<finalsroundtime>0</finalsroundtime>
+		<organizer popid="4215560" name="Tyler Brownell"/>
+		<startdate>09/28/2025</startdate>
+		<lessswiss>false</lessswiss>
+		<autotablenumber>true</autotablenumber>
+		<overflowtablestart>0</overflowtablestart>
+	</data>
+	<timeelapsed>0</timeelapsed>
+	<players>
+		<player userid="4669470">
+			<firstname>Tanner</firstname>
+			<lastname>Torr</lastname>
+			<birthdate>02/27/1996</birthdate>
+			<creationdate>09/28/2025 11:33:23</creationdate>
+			<lastmodifieddate>09/28/2025 11:33:23</lastmodifieddate>
+		</player>
+		<player userid="541540">
+			<firstname>Joshua</firstname>
+			<lastname>Coker</lastname>
+			<birthdate>02/27/2013</birthdate>
+			<creationdate>09/28/2025 11:37:35</creationdate>
+			<lastmodifieddate>09/28/2025 11:37:35</lastmodifieddate>
+		</player>
+		<player userid="3421810">
+			<firstname>Tony</firstname>
+			<lastname>DeWitt</lastname>
+			<birthdate>02/27/1997</birthdate>
+			<creationdate>09/28/2025 11:43:29</creationdate>
+			<lastmodifieddate>09/28/2025 11:43:29</lastmodifieddate>
+		</player>
+		<player userid="4594617">
+			<firstname>Tucker</firstname>
+			<lastname>Geros</lastname>
+			<birthdate>02/27/2011</birthdate>
+			<creationdate>09/28/2025 11:47:24</creationdate>
+			<lastmodifieddate>09/28/2025 11:47:24</lastmodifieddate>
+		</player>
+		<player userid="4196350">
+			<firstname>Cameron</firstname>
+			<lastname>Conner</lastname>
+			<birthdate>02/27/2016</birthdate>
+			<creationdate>01/12/2025 11:14:22</creationdate>
+			<lastmodifieddate>01/12/2025 11:14:22</lastmodifieddate>
+		</player>
+		<player userid="843142">
+			<firstname>Zach</firstname>
+			<lastname>Droegkamp</lastname>
+			<birthdate>02/27/1993</birthdate>
+			<creationdate>09/28/2025 11:49:47</creationdate>
+			<lastmodifieddate>09/28/2025 11:49:47</lastmodifieddate>
+		</player>
+		<player userid="3148117">
+			<firstname>Zoe</firstname>
+			<lastname>Ready</lastname>
+			<birthdate>02/27/2014</birthdate>
+			<creationdate>01/12/2025 10:57:10</creationdate>
+			<lastmodifieddate>01/12/2025 11:13:21</lastmodifieddate>
+		</player>
+		<player userid="3148115">
+			<firstname>Amelia</firstname>
+			<lastname>Ready</lastname>
+			<birthdate>02/27/2014</birthdate>
+			<creationdate>01/12/2025 10:56:48</creationdate>
+			<lastmodifieddate>01/12/2025 11:13:12</lastmodifieddate>
+		</player>
+		<player userid="895684">
+			<firstname>Tammy</firstname>
+			<lastname>Kuo</lastname>
+			<birthdate>02/27/1995</birthdate>
+			<creationdate>09/28/2025 11:54:27</creationdate>
+			<lastmodifieddate>09/28/2025 11:54:27</lastmodifieddate>
+		</player>
+		<player userid="416551">
+			<firstname>Daniel</firstname>
+			<lastname>Tapp</lastname>
+			<birthdate>02/27/2008</birthdate>
+			<creationdate>01/12/2025 10:56:19</creationdate>
+			<lastmodifieddate>01/12/2025 10:56:19</lastmodifieddate>
+		</player>
+	</players>
+	<pods>
+	</pods>
+	<finalsoptions>
+	</finalsoptions>
+</tournament>
